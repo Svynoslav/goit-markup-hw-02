@@ -1,0 +1,18 @@
+.hero-section {
+  background-color: #2e2f42;
+  color: #fff;
+}
+
+.hero-title {
+  font-size: 56px;
+  line-height: 1.07143;
+  text-align: center;
+}
+
+.hero-btn {
+  background-color: #4d5ae5;
+}
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #404bbf;
+}
